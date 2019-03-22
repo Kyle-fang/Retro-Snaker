@@ -1,4 +1,4 @@
-import pygame
+.pyimport pygame
 from settings import Settings
 import game_functions as gf
 
